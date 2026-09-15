@@ -1,0 +1,1 @@
+edad = 17 #edad es una variabale que contiene informacion 
