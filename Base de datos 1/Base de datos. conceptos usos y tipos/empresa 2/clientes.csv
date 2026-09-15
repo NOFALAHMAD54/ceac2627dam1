@@ -1,0 +1,6 @@
+id_cliente,nombre,apellido,email,telefono,ciudad
+C006,Pablo,Rodríguez,pablo.rodriguez@email.com,655678901,Alicante
+C007,Sofía,Fernández,sofia.fernandez@email.com,666789012,Zaragoza
+C008,Daniel,Gómez,daniel.gomez@email.com,677890123,Málaga
+C009,Lucía,Navarro,lucia.navarro@email.com,688901234,Granada
+C010,Javier,Ruiz,javier.ruiz@email.com,699012345,Murcia

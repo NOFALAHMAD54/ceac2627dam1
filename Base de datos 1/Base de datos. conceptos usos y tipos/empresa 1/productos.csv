@@ -1,0 +1,6 @@
+id_producto,nombre,categoria,precio,stock
+P001,Portátil Lenovo,Informática,749.99,15
+P002,Ratón inalámbrico,Accesorios,24.99,50
+P003,Teclado mecánico,Accesorios,69.99,30
+P004,Monitor 24 pulgadas,Monitores,159.99,20
+P005,Disco SSD 1TB,Almacenamiento,89.99,25

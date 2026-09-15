@@ -1,0 +1,6 @@
+id_cliente,nombre,apellido,email,telefono,ciudad
+C001,Ana,García,ana.garcia@email.com,600123456,Valencia
+C002,Carlos,López,carlos.lopez@email.com,611234567,Madrid
+C003,María,Martínez,maria.martinez@email.com,622345678,Barcelona
+C004,David,Sánchez,david.sanchez@email.com,633456789,Sevilla
+C005,Laura,Pérez,laura.perez@email.com,644567890,Bilbao

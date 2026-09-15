@@ -1,0 +1,6 @@
+id_producto,nombre,categoria,precio,stock
+P006,Tablet Samsung,Electrónica,329.99,18
+P007,Smartphone Xiaomi,Telefonía,399.99,22
+P008,Auriculares Bluetooth,Audio,59.99,45
+P009,Cámara web HD,Accesorios,39.99,35
+P010,Impresora multifunción,Ofimática,129.99,12
