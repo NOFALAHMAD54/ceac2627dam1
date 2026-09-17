@@ -7,5 +7,4 @@ CREATE TABLE Clientes (
 
 SHOW TABLES; 
 
-DESCRIBE Clientes;
-
+DESCRIBE Clientes; te muestra toda la tabla clientes.
