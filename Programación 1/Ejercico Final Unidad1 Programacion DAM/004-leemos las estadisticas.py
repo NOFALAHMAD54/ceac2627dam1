@@ -1,0 +1,8 @@
+print("Caracteristicas del personaje")
+print("-" * 50)
+print("Nombre: ", NOMBRE)
+print("Nivel: ", nivel)
+print("Vida: ", vida)
+print("Ataque: ", ataque)
+print("Defensa: ", defensa)
+print("Velocidad: ", velocidad)
