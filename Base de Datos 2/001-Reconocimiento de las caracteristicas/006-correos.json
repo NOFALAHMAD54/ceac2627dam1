@@ -1,0 +1,20 @@
+{
+	"datos_personales":{
+  	"nombre":"NOFAL AHAMD",
+    "apellidos":"RANA ZAFAR",
+    "email":{
+    	"personal":"nofalahmad456@gmail.com",
+      "profesional":"nofaldshop56@gmail.com"
+    }
+  },
+  "formacion":"",
+  "experiencia_laboral":[
+  	"experiencia1",
+    "experiencia2",
+    "experiencia3",
+    "experiencia4"
+  ],
+  "idiomas":"",
+  "conduccion":"",
+  "hobbies":""
+}
