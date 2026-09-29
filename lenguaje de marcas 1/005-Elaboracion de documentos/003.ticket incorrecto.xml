@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ticket>
+  <fecha>2026-09-29</fecha>
+  <sala>1</sala>
+
+  <pelicula>Una pelicula de marcas</pelicula>
+  <diadelasemana>martes</diadelasemana>
+</ticket>
+
+## aqui lo que pasa es dque el diadelasemana no esta en la platina por lo tanto nos lo sobra asi que tendremos que meterlo en la plantilla para tenerlo bien 

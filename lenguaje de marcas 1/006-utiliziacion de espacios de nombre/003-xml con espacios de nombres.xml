@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narz:ticket xmlns:narz="http://www.narz.com/ticket"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.narz.com/ticket ticket.xsd">
+  <narz:fecha>2026-09-29</narz:fecha>
+  <narz:sala>1</narz:sala>
+  <narz:sesion>8:30</narz:sesion>
+  <narz:pelicula>Una pelicula de marcas</narz:pelicula>
+</narz:ticket>
